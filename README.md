@@ -17,14 +17,14 @@ It lets users document their daily feelings, view emotional stats, and store eve
 
 ## Screenshots
 
-![Unlog - Main Page](screenshots/screenshot7.png)
-![Unlog - Login Page](screenshots/screenshot8.png)
-![Loged - Main Page](screenshots/screenshot6.png)
-![Loged - Main Page with entries](screenshots/screenshot1.png)
-![Loged - Calendar Page](screenshots/screenshot2.png)
-![New entry page](screenshots/screenshot3.png)
-![Detail page view](screenshots/screenshot4.png)
-![Profile page view](screenshots/screenshot5.png)
+![Unlog - Main Page](screenshots/screenshot7.jpeg)
+![Unlog - Login Page](screenshots/screenshot8.jpeg)
+![Loged - Main Page](screenshots/screenshot6.jpeg)
+![Loged - Main Page with entries](screenshots/screenshot1.jpeg)
+![Loged - Calendar Page](screenshots/screenshot2.jpeg)
+![New entry page](screenshots/screenshot3.jpeg)
+![Detail page view](screenshots/screenshot4.jpeg)
+![Profile page view](screenshots/screenshot5.jpeg)
 
 ## Tech Stack
 
