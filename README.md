@@ -43,13 +43,6 @@ git clone https://github.com/qbnt/DiaryApp.git
 4. Enable Firestore & Authentication in Firebase Console
 5. Run the app on a simulator or real device
 
-## Todo / Ideas
-
-- iCloud backup option
-- Mood-based suggestions or journaling prompts
-- Widget support
-- In-app reminders
-
 ## License
 
 This project is licensed under the MIT License.
